@@ -91,7 +91,4 @@ This project implements a hybrid ARIMA-LSTM model to predict future stock prices
 ## Conclusion
 This hybrid ARIMA-LSTM model effectively combines the strengths of traditional statistical methods and modern machine learning approaches, providing a comprehensive solution for time series forecasting tasks.
 
-## **Contact**
-For questions or collaboration, feel free to reach out:
-- **Email:** [udaydaradeiitb@gmail.com]
-- **GitHub:** [udaydarade](https://github.com/udaydarade)
+
